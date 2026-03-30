@@ -1,0 +1,7 @@
+1- class is a blueprint, object is real
+
+2- int runs automatically obje
+3- self > current obj
+4- instance unique per obj
+5- class > shared
+6- methonds inside class > obj data own
