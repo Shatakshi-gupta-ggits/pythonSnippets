@@ -13,7 +13,7 @@ introduce(23, "pappu") '''
 ''' KEY Word Arguments
 *arg  = collects positional arguments only in the tuple
 
-**keyargs = 
+**keyargs = stored as a dictionary (any number of arguments are allowed)
 '''
 def add(*numbers):
     total = 0
