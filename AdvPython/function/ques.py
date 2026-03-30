@@ -16,13 +16,23 @@ if > even
 function > logic
 return
 '''
-def count_even(n):
-    count = 0
-    for i in range(1, n+1):
-        if i%2 == 0:
-            print(i)
-            count += 1
-        return count
+# def count_even(n):
+#     count = 0
+#     for i in range(1, n+1):
+#         if i%2 == 0:
+#             print(i)
+#             count += 1
+#         return count
     
-result = count_even(10)
+# result = count_even(10)
+# print(result)
+
+def check_result(marks):
+    if marks >= 90:
+        return "Topper"
+    else:
+        return "Average"
+    
+marks = int(input("Enter marks: "))
+result = check_result(marks)
 print(result)
