@@ -1,0 +1,22 @@
+Hi pls learn python very thoughroly bcz its gonna 
+change your liefe forever
+''' badi gamew khelna hai to poython to aana padega"
+ai 
+
+
+
+types :
+
+1. text file
+.txt, .csv, .json, .py
+
+2. Binary Files - images, audions 
+are stored in the binary format 
+0 1 0 1 00 11 000 111
+
+functions ; 
+     open()
+     read()
+     close()
+     
+3. 
